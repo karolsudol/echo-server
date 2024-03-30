@@ -1,4 +1,4 @@
-# echo-server-tokio
+# echo-server
 
 A simple echo server written in Rust using Std.
 
